@@ -1,8 +1,0 @@
-.env
-.venv
-.gitignore
-
-
-#Test/Sample scripts
-test.py
-trial.ipynb
